@@ -1,17 +1,7 @@
 [
        {
-              "title": "TEST",
-              "text": "TEST",
-              "id": "a86162a9-b790-4504-b691-928c9e7ad239"
-       },
-       {
-              "title": "This is a note",
-              "text": "To annoy people",
-              "id": "35e8a420-f71a-495a-9281-a48bd561dd54"
-       },
-       {
-              "title": "note",
-              "text": "note",
-              "id": "cdc0fc0f-9c9a-4696-a955-0726db2dbda8"
+              "title": "Hello",
+              "text": "Welcome to my application that takes notes and stores them in a DB.JSON",
+              "id": "c9e53bd6-e1b4-4255-9648-080fc87a4385"
        }
 ]
